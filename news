@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Oleo+Script:wght@700&family=Quicksand:wght@300;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles/shared.css" />
+    <link rel="stylesheet" href="/styles/news.css" />
+    <title>News</title>
+  </head>
+  <body>
+    <header>
+      <div id="page-logo">
+        <a href="index.html">News</a>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <ul>
+        <li>
+          <img src="/images/pictures/teaching_girl.jpg" alt="Girl teaching" />
+          <div class="item-content">
+            <div>
+              <h2>9.1.2024</h2>
+              <p>
+                10 Things You Need to Know About Harmony Strings Academy Croatia
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/teaching_student.jpg" alt="Teaching student" />
+          <div class="item-content">
+            <div>
+              <h2>20.12.2023</h2>
+              <p>
+                Creativity is at the heart of Harmony Strings Academy!
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/dino.jpg" alt="Dino" />
+          <div class="item-content">
+            <div>
+              <h2>5.12.2023</h2>
+              <p>
+                Dino Antonić: The voice is the perfect instrument.
+              </p>
+              <p>
+                "Music is a calling, so it should never become a 'job' that is merely done," is the motto that thirty-five-year-old Dino Antonić, a singer and one of the mentors at Harmony Strings Academy, has embraced throughout his entire life.
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/girls_playing.jpg" alt="Girls playing" />
+          <div class="item-content">
+            <div>
+              <h2>25.11.2023</h2>
+              <p>
+                Learning music can have various positive effects on the development of children.
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/marko.jpg" alt="Marko" />
+          <div class="item-content">
+            <div>
+              <h2>13.11.2023</h2>
+              <p>
+                Marko Duvnjak: The progress of my students motivates me. 
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/lessons.jpg" alt="Teacher teaching" />
+          <div class="item-content">
+            <div>
+              <h2>11.11.2023</h2>
+              <p>
+                For Everyone from 8 to 88 Years: Popular Violin Playing Courses.
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin"
+                >Explore &#x2192</a
+              >
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/online.jpg" alt="Online lessons" />
+          <div class="item-content">
+            <div>
+              <h2>28.10.2023</h2>
+              <p>
+                Harmony Strings Academy: How We Started Our Croatian Story
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <img src="/images/pictures/violinplayer.jpg" alt="Violin player" />
+          <div class="item-content">
+            <div>
+              <h2>3.10.2023</h2>
+              <p>
+                Harmony Strings Academy – Over 60 Years of International Reputation and Tradition
+              </p>
+            </div>
+            <div class="actions">
+              <a href="https://en.wikipedia.org/wiki/Violin">Explore &#x2192</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </main>
+    <footer>
+      <ul>
+        <li>
+          <a href="https://www.instagram.com"
+            ><img src="/images/icons/insta.png" alt="Instagram logo"
+          /></a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com"
+            ><img src="/images/icons/facebook.png" alt="Facebook logo"
+          /></a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>

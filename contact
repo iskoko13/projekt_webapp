@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Oleo+Script:wght@700&family=Quicksand:wght@300;500;700&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="/styles/shared.css" />
+    <link rel="stylesheet" href="/styles/contact.css" />
+    <title>Contact</title>
+</head>
+
+<body>
+    <header>
+        <div id="page-logo">
+            <a href="index.html">Contact</a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <ul id="destinations1">
+            <li class="destination1">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.8245363215381!2d16.073832415231102!3d45.714403516436874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47667e543ebb2c65%3A0xe159703d90972cf3!2sVeleu%C4%8Dili%C5%A1te%20Velika%20Gorica!5e0!3m2!1shr!2shr!4v1705117322524!5m2!1shr!2shr"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            </li>
+            <li class="destination1">
+                <form action="action_page.php">
+                    <div class="container">
+                      <h1>Register</h1>
+                      <p>Please fill in this form to create an account.</p>
+                      <hr>
+                  
+                      <label for="email"><b>Email</b></label>
+                      <input type="text" placeholder="Enter Email" name="email" id="email" required>
+                  
+                      <label for="psw"><b>Password</b></label>
+                      <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+                  
+                      <label for="psw-repeat"><b>Repeat Password</b></label>
+                      <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+                      <hr>
+                  
+                      <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+                      <button type="submit" class="registerbtn">Register</button>
+                    </div>
+                  
+                    <div class="container signin">
+                      <p>Already have an account? <a href="#">Sign in</a>.</p>
+                    </div>
+                  </form>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.instagram.com"><img src="/images/icons/insta.png" alt="Instagram logo" /></a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com"><img src="/images/icons/facebook.png" alt="Facebook logo" /></a>
+            </li>
+        </ul>
+    </footer>
+</body>
+
+</html>

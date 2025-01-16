@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Oleo+Script:wght@700&family=Quicksand:wght@300;500;700&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="/styles/shared.css" />
+    <link rel="stylesheet" href="/styles/gallery.css" />
+    <title>Gallery</title>
+</head>
+
+<body>
+    <header>
+        <div id="page-logo">
+            <a href="index.html">Gallery</a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <ul>
+            <li>
+                <img src="/images/pictures/hilary-hahn.jpg" alt="Hilary Hahn" />
+                <div class="item-content">
+                    <div>
+                        <h2>Hilary Hahn</h2>
+                        <p>
+                            Almost any list of modern violin greats will include Hilary Hahn. She started studying
+                            violin at just 4 years old, and eventually joined the Curtis Institute of Music. Hahn was
+                            considered a true child prodigy. She performed with the Baltimore Symphony Orchestra at 12,
+                            and debuted at Carnegie Hall when she was only 16. Hahn has performed all over the world,
+                            including at the Vatican for Pope Benedict XVI. She has won three Grammy Awards.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <img src="/images/pictures/nicola benedetti.jpg" alt="Nicola Benedetti" />
+                <div class="item-content">
+                    <div>
+                        <h2>Nicola Benedetti </h2>
+                        <p>
+                            Nicola Benedetti’s musical talents were obvious from the time she was a child. By age 8, she
+                            was leading the National Children’s Orchestra of Great Britain. In her teens, she won
+                            multiple national awards in recognition of her talents as a musical prodigy. Benedetti has
+                            toured with orchestras around the globe and received countless awards for her performances.
+                            She’s known not just for her talents, but also for an exuberant playing style that has
+                            enthralled audiences worldwide.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <img src="/images/pictures/Joshua Bell.jpg" alt="Joshua Bell" />
+                <div class="item-content">
+                    <div>
+                        <h2>Joshua Bell</h2>
+                        <p>
+                            If you’re a classical music fan, you know the name Joshua Bell. One of the most famous
+                            violinists of modern times, Bell developed an interest in classical music before he even
+                            started school. After years of intense study, he debuted at Carnegie Hall when he was only
+                            17. His performance on the score of the Academy Award-winning 1998 film The Red Violin
+                            earned him the attention of the wider world.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <img src="/images/pictures/Akiko Suwanai.jpg" alt="Akiko Suwanai" />
+                <div class="item-content">
+                    <div>
+                        <h2>Akiko Suwanai</h2>
+                        <p>
+                            Japanese violinist Akiko Suwanai began studying the instrument at just 3 years old. After
+                            studying at Juilliard, she made history in 1990, becoming the youngest-ever champion of
+                            Moscow’s Tchaikovsky Competition at 18. Suwanai is known for her broad repertoire and
+                            extraordinary technical skill, making her a standout even amongst the most talented
+                            musicians in the world.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <img src="/images/pictures/Augustin Hadelich.jpg" alt="Augustin Hadelich " />
+                <div class="item-content">
+                    <div>
+                        <h2>Augustin Hadelich </h2>
+                        <p>
+                            Augustin Hadelich managed to become one of the most skilled violinists in the world without
+                            receiving an early formal education on the instrument. Most professional instrumentalists
+                            start studying before they even enter school, but Hadelich didn’t have that option.
+                            Fascinated by the violin, though, he took sporadic lessons from adults who traveled by his
+                            family’s farm. Finally, he was able to study at renowned music schools in Italy and New
+                            York. Hadelich has performed around the world and has earned four Grammy nominations.
+                        </p>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.instagram.com"><img src="/images/icons/insta.png" alt="Instagram logo" /></a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com"><img src="/images/icons/facebook.png" alt="Facebook logo" /></a>
+            </li>
+        </ul>
+    </footer>
+</body>
+
+</html>

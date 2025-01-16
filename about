@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Oleo+Script:wght@700&family=Quicksand:wght@300;500;700&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="/styles/shared.css" />
+    <link rel="stylesheet" href="/styles/about.css" />
+    <title>About</title>
+</head>
+
+<body>
+    <header>
+        <div id="page-logo">
+            <a href="index.html">About</a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <ul id="destinations1">
+            <li class="destination1">
+                <iframe src="https://www.youtube.com/embed/1KDWTw41BxU" frameborder="0" allowfullscreen></iframe>
+            </li>
+            <li class="destination1">
+                <div>
+                    <h1>Lindsey Stirling</h1>
+                    <p>Lindsey Stirling, a talented American violinist, dancer, and composer, rose to fame through her
+                        unique blend of classical music, electronic beats, and mesmerizing choreography. Born on
+                        September
+                        21, 1986, in Santa Ana, California, Lindsey developed a passion for the violin at a young age.
+                    </p>
+                    <p>Despite facing initial skepticism about her unconventional style, Lindsey remained undeterred. In
+                        2010, she gained widespread recognition when she reached the quarterfinals on "America's Got
+                        Talent." While the judges praised her skill, they were unsure about her fusion of classical
+                        violin
+                        and modern dance.</p>
+                    <p>Undaunted by the setback, Lindsey turned to the internet to showcase her music. Her YouTube
+                        channel
+                        became a platform for her to connect directly with a global audience. Lindsey's innovative
+                        approach
+                        resonated with viewers, and her self-produced music videos started to go viral.</p>
+                </div>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.instagram.com"><img src="/images/icons/insta.png" alt="Instagram logo" /></a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com"><img src="/images/icons/facebook.png" alt="Facebook logo" /></a>
+            </li>
+        </ul>
+    </footer>
+</body>
+
+</html>
