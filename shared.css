@@ -40,7 +40,7 @@ body {
   }
   
   header a {
-    color: rgb(255, 251, 0);
+    color: rgb(73, 25, 25);
     text-decoration: none;
     font-size: 20px;
     padding: 12px;
@@ -50,7 +50,7 @@ body {
   
   header nav a:hover {
     color: rgb(77, 77, 77);
-    background-color: rgb(255, 251, 0);
+    background-color: rgb(73, 25, 25);
   }
   
   footer {
