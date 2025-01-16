@@ -37,21 +37,21 @@
       </div>
     </section>
     <section id="highlights">
-      <h2>Highlights</h2>
-      <ul id="destinations">
-        <li class="destination">
+      <h2>Houses</h2>
+      <ul id="Houses">
+        <li class="house">
           <img src="/img/griffindor.jpg" alt="Griffindor" />
           <p><strong>Griffindor</strong></p>
         </li>
-        <li class="destination">
+        <li class="house">
           <img src="/img/slytherin.jpg" alt="Slytherin" />
           <p><strong>Slytherin</strong></p>
         </li>
-        <li class="destination">
+        <li class="house">
           <img src="/img/ravenclaw.jpg" alt="Ravenclaw" />
           <p><strong>Ravenclaw</strong></p>
         </li>
-        <li class="destination">
+        <li class="house">
           <img src="/img/hufflepuff.jpg" alt="Hufflepuff" />
           <p><strong>Hufflepuff</strong></p>
         </li>
