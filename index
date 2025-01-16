@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Oleo+Script:wght@700&family=Quicksand:wght@300;500;700&display=swap"
+    rel="stylesheet" />
+  <title>Hogwarts</title>
+  <link rel="stylesheet" href="/styles/shared.css" />
+  <link rel="stylesheet" href="/styles/index.css" />
+
+</head>
+
+<body>
+  <header>
+    <div id="page-logo">
+      <a href="index.html">Hogwarts</a>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="hero">
+      <div id="hero-content">
+        <h1>Hogwarts - school of witchcraft and wizardry</h1>
+        <p>Hogwarts School of Witchcraft and Wizardry, often shortened to Hogwarts, was the British wizarding school located in the Scottish Highlands. Any magical children residing in Great Britain or Ireland who had reached the age of eleven by the start of the incoming term were accepted as students. It was a state-owned school, funded by the British Ministry of Magic.
+        </p>
+        <a href="/places.html">Start now</a>
+      </div>
+    </section>
+    <section id="highlights">
+      <h2>Highlights</h2>
+      <ul id="destinations">
+        <li class="destination">
+          <img src="/img/griffindor.jpg" alt="Griffindor" />
+          <p><strong>Griffindor</strong></p>
+        </li>
+        <li class="destination">
+          <img src="/img/slytherin.jpg" alt="Slytherin" />
+          <p><strong>Slytherin</strong></p>
+        </li>
+        <li class="destination">
+          <img src="/img/ravenclaw.jpg" alt="Ravenclaw" />
+          <p><strong>Ravenclaw</strong></p>
+        </li>
+        <li class="destination">
+          <img src="/img/hufflepuff.jpg" alt="Hufflepuff" />
+          <p><strong>Hufflepuff</strong></p>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <ul>
+      <li>
+        <a href="https://www.instagram.com"><img src="/img/insta.png" alt="Instagram logo" /></a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com"><img src="/img/facebook.png" alt="Facebook logo" /></a>
+      </li>
+    </ul>
+  </footer>
+</body>
+
+</html>
