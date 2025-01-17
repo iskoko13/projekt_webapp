@@ -13,11 +13,11 @@ header {
 }
 
 header a {
-    color: rgb(89, 30, 30);
+    color: rgb(236, 182, 182);
 }
 
 header nav a:hover {
-    background-color: rgb(89, 30, 30);
+    background-color: rgb(236, 182, 182);
     color: rgb(59, 59, 59);
 }
 
