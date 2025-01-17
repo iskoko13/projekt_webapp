@@ -4,7 +4,7 @@ body {
   }
   
   #page-logo a {
-    color: rgb(183, 230, 235);
+    color: rgb(59, 20, 20);
   }
   
   header {
@@ -12,11 +12,11 @@ body {
   }
   
   header a {
-    color: rgb(183, 230, 235);
+    color: rgb(59, 20, 20);
   }
   
   header nav a:hover {
-    background-color: rgb(183, 230, 235);
+    background-color: rgb(59, 20, 20);
     color: rgb(59, 59, 59);
   }
   
